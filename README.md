@@ -45,10 +45,10 @@ A detailed reference covering Python's essential tools for data science - from b
 
 ## Key Features
 
-- 📊 Comprehensive examples for each concept
-- 🔧 Practical implementations and best practices
-- 💡 Performance optimization tips
-- 🎯 Common interview questions and solutions
+- Comprehensive examples for each concept
+- Practical implementations and best practices
+- Performance optimization tips
+- Common interview questions and solutions
 
 ## Getting Started
 
